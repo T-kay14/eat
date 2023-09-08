@@ -1,0 +1,25 @@
+#logo {
+    font-family: 'Great Vibes', cursive;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 1rem 2rem;
+}
+ul,form,p,h5{
+    font-family: 'Dancing Script', cursive;
+    color:rgb(23, 165, 221)
+}
+
+.row{
+      padding: 3rem 1rem;
+}
+footer{
+    background:;
+    color:skyblue;
+    height: 100px;
+    text-align: center;
+}
+.content li:hover{
+    background-color: white;
+    border-radius: 10px;
+    transition: ls;
+}
